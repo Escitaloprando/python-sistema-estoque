@@ -1,0 +1,16 @@
+"produtos" : [
+    {
+        Código: 3141,
+        Nome: "Suporte Simples Fundo de Parede D",
+        Setor de origem: "Mecânica",
+        Descrição: { },
+
+    },
+    {
+        Código: 0000,
+        Nome: "nome",
+        Setor de origem: "SETOR",
+        Descrição: { },
+        
+    }
+]
